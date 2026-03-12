@@ -4,6 +4,7 @@ on:
   push:
     branches: [main, master]
   pull_request:
+    branches: [ej/session2]
 
 name: lint.yaml
 
